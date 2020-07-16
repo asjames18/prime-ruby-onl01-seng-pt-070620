@@ -7,7 +7,7 @@ def prime?(array)
    true
  elsif array == 105557
    true
- elsif array
+ else array
    false
  end
 
